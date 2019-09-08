@@ -23,6 +23,7 @@ run_library_spec() {
 run_core_spec "comparable"
 run_core_spec "matchdata"
 run_core_spec "regexp"
+run_core_spec "env"
 
 run_library_spec "monitor"
 run_library_spec "stringscanner"
